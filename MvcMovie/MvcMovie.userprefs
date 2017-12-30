@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{E3185E42-A8B4-4C97-8761-C307B89E77EB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvcMovie/Program.cs">
+    <Files>
+      <File FileName="MvcMovie/Program.cs" Line="20" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Volumes/TMT128/Projects/LearnDOTNET/MvcMovie/MvcMovie/Controllers/HelloWorldController.cs" relfile="MvcMovie/Controllers/HelloWorldController.cs" line="26" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MvcMovie PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
